@@ -1,0 +1,23 @@
+.outer-container {
+    color: 'white';
+    padding: 10px;
+}
+
+.content {
+  min-height: 100px;
+  cursor: pointer;
+  color: white;
+  background-color: black;
+  padding: 5px;
+  margin-bottom: 10px;
+  height: fit-content;
+}
+
+.button {
+    color: black;
+    background-color: blueviolet;
+}
+
+h1 {
+  text-align: center;
+}
